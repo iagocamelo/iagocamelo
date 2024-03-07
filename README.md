@@ -1,6 +1,6 @@
 
 ### Hi! I'm Iago Camelo 🤓
-
+Building the future, line by line of code. 🚀💻
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagocamelo/)
 
@@ -32,7 +32,6 @@
 
 
 
-Building the future, line by line of code. 🚀💻
 
 
 
